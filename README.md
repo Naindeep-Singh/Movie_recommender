@@ -1,5 +1,8 @@
 # Movie Recommender
 
+## Website
+[Movie Recommender Web App](https://movierecommender-pof22t3ecfsgaqpxs458tn.streamlit.app)
+
 ## Overview
 This project is a movie recommender system based on content-based recommendation using vectorization. It utilizes Jupyter Notebook for preprocessing and creating `.pkl` files, and Python with Streamlit for launching a web application.
 
@@ -36,9 +39,6 @@ This project is a movie recommender system based on content-based recommendation
 
 ## Inspiration
 This project is inspired by [this YouTube video](https://www.youtube.com/watch?v=1xtrIEwY_zY&t=3877s).
-
-## Contributing
-- Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [MIT License](LICENSE)
